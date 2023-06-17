@@ -9,7 +9,7 @@ Therefore if we can determine if the first stage will land, we can determine the
 This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.  
   
 ## 00_Presentation  
-Is the rersumed Power Point presentation of all the work done.
+Is the resumed Power Point presentation of all the work done.
 
 ## Notebooks  
 01_Data_Collection  

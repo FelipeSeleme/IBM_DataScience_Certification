@@ -28,4 +28,6 @@ This information can be used if an alternate company wants to bid against SpaceX
 
 
 ## License
-Copyright (c) 2023 Felipe Seleme Ribeiro
+Copyright (c) 2023 Felipe Seleme Ribeiro  
+  
+  ![IBM Data Science Professional Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~L84DUWCD8F9X/CERTIFICATE_LANDING_PAGE~L84DUWCD8F9X.jpeg)

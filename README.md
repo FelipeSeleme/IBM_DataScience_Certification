@@ -27,4 +27,5 @@ This information can be used if an alternate company wants to bid against SpaceX
 [PDF](00_presentation_ds-SpaceX-capstone.pdf) presentation of the project.
 
 
-
+## License
+Copyright (c) 2023 Felipe Seleme Ribeiro

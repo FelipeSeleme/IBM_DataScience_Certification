@@ -24,7 +24,6 @@ This information can be used if an alternate company wants to bid against SpaceX
   
 ## Presentation
 [Power Point](00_presentation_ds-SpaceX-capstone.pptx) presentation of the project.  
-[PDF](00_presentation_ds-SpaceX-capstone.pdf) presentation of the project.
 
 
 ## License

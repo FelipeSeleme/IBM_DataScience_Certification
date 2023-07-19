@@ -1,4 +1,4 @@
-# 🎖️ IBM Data Science Certification ..... .....
+# 🎖️ IBM Data Science Certification
 SpaceX Falcon 9 first stage success landing prediction with Machine Learning Models  
   
 This is the rersult of the IBM Data Science Certification capstone.  
